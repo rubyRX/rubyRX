@@ -8,4 +8,4 @@ i do UI designing in Roblox for the fun of it. I love asking people to rate them
 also do a little lua.
 # Other Info
 i own a few Discord servers.
-[Saturn Modding] https://discord.gg/4KSvR46PDH
+[Saturn Modding(https://discord.gg/4KSvR46PDH)]
