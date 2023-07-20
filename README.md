@@ -16,5 +16,7 @@ i own a few Discord servers.
 [The Gorilla Tag Archive](https://discord.gg/8ZBU6FuK33)
 
 Ruby Client isn't used anymore.
+
 Rose isn't used anymore.
+
 Orion.Monke isn't used anymore.
