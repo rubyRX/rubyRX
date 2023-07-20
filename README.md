@@ -8,4 +8,9 @@ i do UI designing in Roblox for the fun of it. I love asking people to rate them
 also do a little lua.
 # Other Info
 i own a few Discord servers.
-[Saturn Modding(https://discord.gg/4KSvR46PDH)]
+[Saturn Modding](https://discord.gg/4KSvR46PDH)
+[rubi.crib (Personal Server)](https://discord.gg/pQZ8fCg6r6)
+[The Gorilla Tag Archive](https://discord.gg/8ZBU6FuK33)
+Ruby Client isn't used anymore.
+Rose isn't used anymore.
+Orion.Monke isn't used anymore.
