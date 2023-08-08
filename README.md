@@ -9,7 +9,12 @@ also do a little lua.
 # Other Info
 i own a few Discord servers.
 
+## Open.Saturn
 [Saturn Modding](https://discord.gg/4KSvR46PDH)
+
+[Qustom Server](https://discord.gg/j9R2UzVV6T)
+
+## Other
 
 [rubi.crib (Personal Server)](https://discord.gg/pQZ8fCg6r6)
 
